@@ -1,0 +1,60 @@
+table {
+  width: 80%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+}
+
+th,
+td {
+  border: 2px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+#outer {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  font-style: bold;
+}
+
+.colum1 {
+  background: rgb(255, 129, 129);
+}
+
+.colum2 {
+  background-color: rgb(225, 93, 225);
+}
+
+.colum3 {
+  background-color: rgb(123, 123, 215);
+}
+
+.colum4 {
+  background-color: yellow;
+}
+
+.colum5 {
+  background-color: rgb(51, 120, 51);
+}
+
+.colum6 {
+  background-color: rgb(180, 106, 106);
+}
+.colum7 {
+  background-color: rgb(195, 195, 67);
+}
+
+.colum8 {
+  background-color: pink;
+}
+
+.colum9 {
+  background-color: rgba(255, 255, 255, 0.901);
+}
