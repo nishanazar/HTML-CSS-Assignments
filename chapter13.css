@@ -1,0 +1,34 @@
+.container {
+  height: 400px;
+  width: 250px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid #dddddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  margin: 30px;
+}
+
+.img {
+  border-radius: 10px;
+  height: 170px;
+  width: 250px;
+}
+.text {
+  text-align: left;
+  padding: 0px 12px 5px 12px;
+}
+
+p {
+  font-size: 18px;
+  color: rgb(146, 121, 121);
+}
+button {
+  height: 40px;
+  width: 100px;
+  background-color: rgb(163, 174, 251);
+  border: 1px solid #dddddd;
+  color: white;
+  font-weight: bold;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
